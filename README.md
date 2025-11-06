@@ -1,7 +1,7 @@
 # 🧪 REST Assured API Testing
 
 A practical project demonstrating **API testing with Rest Assured** and **Spring Boot**, built as part of my software testing and Java learning journey.  
-This project includes a working `bugs-api` service for managing and testing mock bug reports using various HTTP methods (`GET`, `POST`, `PUT`, `PATCH`, `DELETE`, and `HEAD`).
+This project includes a working `bugs-api` service for managing and testing mock bug reports using various HTTP methods (`GET`, `POST`, `PUT`, `PATCH`, `DELETE`).
 
 ---
 
