@@ -14,6 +14,7 @@ rest-assured-api-testing/
 │ │ ├── controller/ # Contains REST controllers (BugController, PingController)
 │ │ └── model/ # Contains POJO models (Bug.java)
 │ └── src/test/java/org/loonycorn/bugs_api/
+│ └── BugsApiApplicationTests.java
 │ └── RestAssuredTests.java
 ├── .gitignore
 ├── LICENSE
@@ -49,10 +50,12 @@ rest-assured-api-testing/
 
 ## 🚀 API Endpoints
 
-#### Ping Endpoint
+### Ping Endpoint
 
-**_Verify service health._**
+***_Verify service health_***
+
 curl -X GET http://localhost:8090/ping
+
 **_Response:_**
 OK
 
